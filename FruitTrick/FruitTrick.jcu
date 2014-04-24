@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>FruitTrick</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>FruitTrick</label>
+			<showfiles>true</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>image</path>
+			</folderitem>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>

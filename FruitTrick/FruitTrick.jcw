@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FruitTrick</label>
+	</settings>
+	<users>
+		<user>
+			<path>FruitTrick.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FruitTrick.jcp</path>
+		</project>
+	</projects>
+</workspace>
